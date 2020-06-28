@@ -1,0 +1,144 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+
+/* index Datei */
+body {
+  background-color:  rgba(156, 231, 253, 0.856);
+}
+.welcome {
+  font-size: 110px;
+  font-family: fantasy;
+}
+.intro {
+  font-size: 40px;
+}
+.content {
+  border: solid 2px black;
+  margin: 70px;
+  height: 650px;
+  padding: 50px;
+  text-align: center;
+}
+.pages ul{
+  display: inline-flex;
+  padding-top: 100px;
+}
+.pages ul li{
+  list-style: none;
+  margin-right: 30px;
+  cursor: pointer;
+  color: black;
+  font-size: 20px;
+}
+.songlyrics {
+  border: 3px dotted black;
+  border-radius: 19px;
+  padding: 7px;
+  color: rgba(56, 123, 143, 0.822);
+}
+.skz {  
+  margin-top: 100px;
+  text-align: center;
+  font-size: 80px;
+  border: solid black 2px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-bottom: 80px;
+}
+.image {
+  width: 50px;
+  margin-top: 120px;
+}
+.varl {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgba(79, 168, 196, 0.822);
+  display: inline; 
+}
+.links {
+  margin-left: 500px;
+  margin-bottom: 80px;
+  margin-top: 80px ;
+}
+.varm {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgba(37, 164, 202, 0.822);
+  display: inline;
+}
+.mitte {
+  text-align: center;
+  margin-bottom: 80px;
+  margin-top: 80px ;
+}
+.varr {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgba(7, 101, 129, 0.822);
+  display: inline;
+}
+.rechts {
+  text-align: right;
+  margin-right: 500px;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.right {
+  text-align: right;
+  margin-right: 400px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.zeile1 {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgba(151, 222, 243, 0.822);
+  display: inline;
+}
+.center {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.zeile2 {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgba(105, 167, 185, 0.822);
+  display: inline;
+} 
+.left {
+  text-align: left;
+  margin-left: 400px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.zeile3 {
+  font-size: 25px;
+  font-family: monospace;
+  background-color: rgba(71, 101, 109, 0.822);
+  display: inline;
+}
+.tricks {
+  font-size: 22px;
+  text-align: center;
+  font-family: monospace;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.Überschrift {
+  font-size: 65px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
+hr {
+  width: 60%;
+  height: 5px;
+  background: black;
+  margin-top: 30px;
+}
